@@ -8,7 +8,7 @@ path: "device/xiaomi/sm6150-common"
 ## source information
 
 ```
-forked from: https://github.com/LineageOS/android\_device\_xiaomi\_sm6150-common
+forked from: https://github.com/LineageOS/android_device_xiaomi_sm6150-common
 branch: lineage-23.2
 ```
 
